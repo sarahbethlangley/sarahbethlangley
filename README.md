@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I used to live on an island**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <3 Let's talk about our cool rock collections <3
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
