@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah Beth</h1>
-<h3 align="center">A passionate frontend developer from Nashville</h3>
+<h3 align="center">A passionate fullstack developer from Nashville</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahbethlangley&label=Profile%20views&color=0e75b6&style=flat" alt="sarahbethlangley" /> </p>
 
