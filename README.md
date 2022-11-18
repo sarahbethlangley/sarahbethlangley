@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P2uQP08-TnV9gaqNIwhSYf1A4oi6ENYj/view?ths=true&pli=1](https://drive.google.com/file/d/1P2uQP08-TnV9gaqNIwhSYf1A4oi6ENYj/view?ths=true&pli=1)
 
-- ⚡ Fun fact **I used to live on an island**
+- ⚡ Fun fact **I used to live on an island, and I have two wolfdogs named Luna and Vega**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 	&#128156; Let's talk about our cool rock collections 
