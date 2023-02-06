@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BooWho?!](https://github.com/sarahbethlangley/boowho)
 
-- 🌱 I’m currently learning **C# and .NET**
+- 🌱 I’m currently learning **C#/.NET and TAILWIND CSS**
 
 - 💬 Checkout my LinkedIn **https://www.linkedin.com/in/sarah-beth-langley-01089b1a0/**
 
