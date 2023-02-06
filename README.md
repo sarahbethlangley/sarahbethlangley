@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarahbethdoescode@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P2uQP08-TnV9gaqNIwhSYf1A4oi6ENYj/view?ths=true&pli=1](https://drive.google.com/file/d/1P2uQP08-TnV9gaqNIwhSYf1A4oi6ENYj/view?ths=true&pli=1)](https://drive.google.com/file/d/12vHF_ObpmC7OCESNqrRil4PWiyziNBQI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12vHF_ObpmC7OCESNqrRil4PWiyziNBQI/view?usp=sharing]
 
 - ⚡ Fun fact **I used to live on an island, and I have two wolfdogs named Luna and Vega**
 
