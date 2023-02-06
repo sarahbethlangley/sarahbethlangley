@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahbethlangley&label=Profile%20views&color=0e75b6&style=flat" alt="sarahbethlangley" /> </p>
 
-- 🔭 I’m currently working on [BooWho?!](https://github.com/sarahbethlangley/boowho)
+- 🔭 I’m currently working on **[BooWho?!](https://github.com/sarahbethlangley/boowho)**
 
 - 🌱 I’m currently learning **C#/.NET and TAILWIND CSS**
 
-- 💬 Checkout my LinkedIn **https://www.linkedin.com/in/sarah-beth-langley-01089b1a0/**
+- 💬 Checkout my LinkedIn **[Sarah Beth Langley's LinkedIn](https://www.linkedin.com/in/sarah-beth-langley-01089b1a0/)**
 
-- 📫 How to reach me **sarahbethdoescode@gmail.com**
+- 📫 How to reach me **[Email](sarahbethdoescode@gmail.com)**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/12vHF_ObpmC7OCESNqrRil4PWiyziNBQI/view?usp=sharing**
+- 📄 Know about my experiences **[Sarah Beth Langley's Resume](https://drive.google.com/file/d/12vHF_ObpmC7OCESNqrRil4PWiyziNBQI/view?usp=sharing)**
 
 - ⚡ Fun fact **I used to live on an island, and I have two wolfdogs named Luna and Vega**
 
