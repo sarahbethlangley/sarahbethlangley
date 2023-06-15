@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **[Email](sarahbethdoescode@gmail.com)**
 
-- 📄 Know about my experiences **[Sarah Beth Langley's Resume]([https://drive.google.com/file/d/12vHF_ObpmC7OCESNqrRil4PWiyziNBQI/view?usp=sharing](https://www.canva.com/design/DAFO7i6ThN4/94FypbdEPkqhWppO84rIEQ/edit?utm_content=DAFO7i6ThN4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))**
+- 📄 Know about my experiences **[Sarah Beth Langley's Resume](https://www.canva.com/design/DAFO7i6ThN4/94FypbdEPkqhWppO84rIEQ/edit?utm_content=DAFO7i6ThN4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 - ⚡ Fun fact **I love working in large codebases**
 
